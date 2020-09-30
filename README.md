@@ -8,5 +8,5 @@ Unzip the files and use as directed in the vignette.
 
 Conversion of these analyses to a Bioconductor R package is ongoing.
 
-##Installation Instructions
+## Installation Instructions
 To install OncoSig from R/Rstudio first install the package `devtools` then enter the command `devtools::install_github("califano-lab/OncoSig") ` 
